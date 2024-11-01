@@ -1,0 +1,70 @@
+#wp_faucet {
+    padding: 20px 0;
+    text-align: center;
+}
+
+
+#wp_faucet input {
+	background: #FFF;
+    border: none;
+    color: #666;
+    padding: 8px;
+    text-align: center;
+    width: 340px;
+}
+#wp_faucet h3 {
+	display:inline-block;
+	margin: 0px !important;
+	width: 100%;
+}
+
+#wp_faucet input.btn {
+    background: #8B0000;
+    color: #FFF;
+    font-size: 20px;
+    padding: 10px 30px 12px;
+    width: auto;
+}
+
+#wp_faucet .error, #wp_faucet .success {
+    background: #F2DEDE;
+    border: 1px solid #EBCCD1;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #666;
+    padding: 5px;
+}
+#wp_faucet .success {
+    background: #DFF0D8;
+    border: 1px solid #D6E9C6;
+}
+#wp_faucet form input {
+    border: 1px solid #ccc;
+    margin: 0 auto;
+}
+
+
+#wp_faucet .content_resumen {
+	background:#FFF;
+	border-radius: 5px;
+	color:#333;
+	padding:15px;	
+}
+
+#wp_faucet .content_resumen table {
+    width: 100%;
+}
+#wp_faucet .content_resumen td {
+    border-bottom: 1px solid #ccc;
+    padding: 4px;
+}
+#wp_faucet .content_resumen h3 {
+    color: #333;
+    text-shadow: none !important;
+}
+
+#wp_faucet .content_ads {
+	display:inline-block !important;
+	margin:10px 0 !important;
+	width: 100% !important;	
+}
